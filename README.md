@@ -3,7 +3,9 @@
 - 🌱 I’m currently learning iOS, Python & Game development
 - 💞️ I’m looking to collaborate on No one
 - 📫 How to reach me 
+
 Linked : https://www.linkedin.com/in/shahriar-hossain-dev/
+
 Skype : live:shahriarhossain802
 
 - About me
