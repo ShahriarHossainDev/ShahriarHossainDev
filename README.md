@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShahriarHossainDev
-- 👀 I’m interested in iOS, Python & Game development
-- 🌱 I’m currently learning iOS, Python & Game development
+- 👀 I’m interested in iOS, Python development
+- 🌱 I’m currently learning iOS, Python development
 - 💞️ I’m looking to collaborate on No one
 - 📫 How to reach me 
 
