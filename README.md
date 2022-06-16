@@ -17,8 +17,7 @@ Innovative tech mind with 4 years of experience working as a computer programmer
 
 Here are a few things I've picked up along my learning journey.
 
-!
-[Swift](https://img.shields.io/badge/-Swift-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) 
+![Swift](https://img.shields.io/badge/-Swift-000?style=for-the-badge&logo=swift) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) 
 
 <!---
 ShahriarHossainDev/ShahriarHossainDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
