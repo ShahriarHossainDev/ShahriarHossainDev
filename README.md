@@ -3,8 +3,6 @@
 
 - 👀 I’m interested in iOS, Python development
 - 🌱 I’m currently learning iOS, Python development
-- 💞️ I’m looking to collaborate on No one
-Skype : live:shahriarhossain802
 
 - About me
 Innovative tech mind with 4 years of experience working as a computer programmer. Capable of working with a variety of technology and software solutions, and managing databases. The valuable team member who has experience diagnosing problems and developing solutions. And Over 4 years of experience in Information Technology, experience in the analysis, design, development, implementation, and maintenance of native and iOS mobile applications using Objective-C, Swift.
@@ -46,7 +44,7 @@ Here are a few things I've picked up along my learning journey.
  ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0) ![IOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ## 📫 Get in touch
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahriar-hossain-dev/)[![Skype](https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white)](live:shahriarhossain802) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahriar.hossain.dev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahriar-hossain-dev/) [![Skype](https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white)](live:shahriarhossain802) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahriar.hossain.dev@gmail.com)
 
 
 
