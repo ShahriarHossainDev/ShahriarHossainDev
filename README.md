@@ -36,13 +36,11 @@ Here are a few things I've picked up along my learning journey.
  ![](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
 ## 📫 Get in touch
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahriar-hossain-dev/) || [!
-
- or give some ♥ on [mail](mailto:shahriar.hossain.dev@gmail.com) .
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahriar-hossain-dev/) || [! or give some ♥ on [mail](mailto:shahriar.hossain.dev@gmail.com) .
 
 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=adnanazmee/adnanazmee)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=ShahriarHossainDev)
 <!---
 ShahriarHossainDev/ShahriarHossainDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
